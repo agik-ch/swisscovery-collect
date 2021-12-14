@@ -9,6 +9,6 @@ Les fichiers fournis contiennent le matériel nécessaire pour produire des exem
 
 Les fichiers sont fournis sous forme de fichier PowerPoint et Word pour être facilement adaptés. Dans la version Master du jeu, créée pour une utilisation au sein de l’Université de Genève, les personnages sont des membres de l’Université de Genève. Il est donc conseillé d'adapter les personnages à son contexte institutionnel.
 
-swisscoveryCOLLECT a été créé dans le cadre d'un workshop de l'AGIK (Arbeitsgruppe Informationskompetenz an Schweizer Hochschulen) à Berne le 7 septembre 2021. Cette version est diffusée par le comité de l'AGIK, sous licence CC0 (Public Domain).
+swisscoveryCOLLECT a été créé dans le cadre d'un workshop de l'AGIK (Arbeitsgruppe Informationskompetenz an Schweizer Hochschulen) à Berne le 7 septembre 2021. Cette version est diffusée par le comité de l'AGIK, sous licence CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 https://www.informationskompetenz.ch
